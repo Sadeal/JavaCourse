@@ -7,3 +7,4 @@ public class Product extends Obj {
         super(Name, Price);
     }
 }
+// each product
