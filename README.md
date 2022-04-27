@@ -15,5 +15,5 @@
   2. Показ ID в таблице истории (т.к. фильтр по таблице, а не по ArrayList)
   3. not recognize
 
-![Основное окно](https://github.com/Sadeal/JavaCourse/raw/master/img/main.png)
-![Окно истории](https://github.com/Sadeal/JavaCourse/raw/master/img/history.png)
+![Основное окно](https://github.com/Sadeal/JavaCourse/blob/main/img/main.png)
+![Окно истории](https://github.com/Sadeal/JavaCourse/blob/main/img/history.png)
