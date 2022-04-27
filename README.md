@@ -14,3 +14,6 @@
   1. Фильтр по № в главной таблице фильтрует строку, поэтому номер 10, будет считаться меньшим, чем 2
   2. Показ ID в таблице истории (т.к. фильтр по таблице, а не по ArrayList)
   3. not recognize
+
+![Основное окно](https://github.com/Sadeal/JavaCourse/raw/master/img/main.png)
+![Окно истории](https://github.com/Sadeal/JavaCourse/raw/master/img/history.png)
