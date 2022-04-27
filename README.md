@@ -6,7 +6,7 @@
      1. Java (https://www.java.com/ru/download/)
      2. JDK 18 (https://www.oracle.com/java/technologies/downloads/#jdk18-windows)
      3. JRE 8 (https://www.oracle.com/java/technologies/downloads/#jre8-windows)
-2. Запустить jar файл[Uploading Course.zip…]()
+2. Запустить jar файл GOTO https://github.com/Sadeal/Market-Parser/blob/main/Course.jar
 4. Чтобы понять, как пользоваться программой откройте: Утилиты -> Пройти обучение
 
 
