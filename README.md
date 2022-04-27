@@ -1,7 +1,7 @@
 Программа, для мониторинга (периодической проверки) цены и хранения истории сохранения цен.
   В программе предоставленно на выбор 4 магазина: Wildberries, Ozon, Market.Yandex, Citilink (yandex маркет работает некоректно, в связи с ограничениями сайта)
 
-Что необходимо, чтобы запустить программу (jar файл)
+Что необходимо, чтобы запустить программу (jar файл)  
 I Установить:  
      1. Java ([java.com](https://www.java.com/ru/download/))  
      2. JDK 18 ([oracle.com](https://www.oracle.com/java/technologies/downloads/#jdk18-windows))  
