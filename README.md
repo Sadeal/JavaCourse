@@ -3,9 +3,9 @@
 
 Что необходимо, чтобы запустить программу (jar файл)  
 I Установить:  
-     1. Java ([java.com](https://www.java.com/ru/download/))  
-     2. JDK 18 ([oracle.com](https://www.oracle.com/java/technologies/downloads/#jdk18-windows))  
-     3. JRE 8 ([oracle.com](https://www.oracle.com/java/technologies/downloads/#jre8-windows))  
+      1. Java ([java.com](https://www.java.com/ru/download/))  
+      2. JDK 18 ([oracle.com](https://www.oracle.com/java/technologies/downloads/#jdk18-windows))  
+      3. JRE 8 ([oracle.com](https://www.oracle.com/java/technologies/downloads/#jre8-windows))  
 II Запустить [jar файл (github)](https://github.com/Sadeal/Market-Parser/blob/main/Course.jar)  
 III Чтобы понять, как пользоваться программой откройте: Утилиты -> Пройти обучение  
 
