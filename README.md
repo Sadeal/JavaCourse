@@ -18,5 +18,5 @@
   2. Показ ID в таблице истории (т.к. фильтр по таблице, а не по ArrayList)
 -------------------------
 ### Изображения программы ###
-![Основное окно](https://github.com/Sadeal/JavaCourse/tree/main/img/main.png)
-![Окно истории](https://github.com/Sadeal/JavaCourse/tree/main/img/history.png)
+![Основное окно](https://github.com/Sadeal/JavaCourse/blob/main/img/main.png)
+![Окно истории](https://github.com/Sadeal/JavaCourse/blob/main/img/history.png)
