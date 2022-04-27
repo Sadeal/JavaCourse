@@ -2,12 +2,12 @@
   В программе предоставленно на выбор 4 магазина: Wildberries, Ozon, Market.Yandex, Citilink (yandex маркет работает некоректно, в связи с ограничениями сайта)
 
 Что необходимо, чтобы запустить программу (jar файл)
-1) Установить:
-     1. Java (https://www.java.com/ru/download/)
-     2. JDK 18 (https://www.oracle.com/java/technologies/downloads/#jdk18-windows)
-     3. JRE 8 (https://www.oracle.com/java/technologies/downloads/#jre8-windows)
-2) Запустить jar файл
-3) Чтобы понять, как пользоваться программой откройте: Утилиты -> Пройти обучение
+1. Установить:
+     a) Java (https://www.java.com/ru/download/)
+     b) JDK 18 (https://www.oracle.com/java/technologies/downloads/#jdk18-windows)
+     c) JRE 8 (https://www.oracle.com/java/technologies/downloads/#jre8-windows)
+2. Запустить jar файл
+3. Чтобы понять, как пользоваться программой откройте: Утилиты -> Пройти обучение
 
 
 Известные проблемы (issues):
