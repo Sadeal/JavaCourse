@@ -2,13 +2,13 @@
 В программе предоставленно на выбор 4 магазина: Wildberries, Ozon, Market.Yandex, Citilink (yandex маркет работает некоректно, в связи с ограничениями сайта)
 
 -------------------------
-### Что необходимо, чтобы запустить программу (jar файл) ###
+### Что необходимо, чтобы запустить программу (jar файл или exe файл) ###
 1. Установить:
     1) Java ([java.com](https://www.java.com/ru/download/))
     2) JDK 18 ([oracle.com](https://www.oracle.com/java/technologies/downloads/#jdk18-windows))
     3) JRE 8 ([oracle.com](https://www.oracle.com/java/technologies/downloads/#jre8-windows))
 
-2. Запустить [jar файл (github)](https://github.com/Sadeal/Market-Parser/blob/main/Course.jar)
+2. Запустить [jar файл (github)](https://github.com/Sadeal/Market-Parser/blob/main/Course.jar) или [exe файл(github)](https://github.com/Sadeal/Market-Parser/blob/main/Market Parser.exe)
 
 3. Чтобы понять, как пользоваться программой откройте: Утилиты -> Пройти обучение
 -------------------------
