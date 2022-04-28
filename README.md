@@ -12,8 +12,7 @@
 2. Запустить [jar файл (github)](https://github.com/Sadeal/Market-Parser/blob/main/etc/Course.jar)
 
 #### Запуск exe файла: ####
-1. Установить:
-    Java ([java.com](https://www.java.com/ru/download/))
+1. Установить Java ([java.com](https://www.java.com/ru/download/))
 2. Запустить [exe файл (github)](https://github.com/Sadeal/Market-Parser/blob/main/etc/MarketParser.exe)
 -------------------------
 ####Чтобы понять, как пользоваться программой откройте: Утилиты -> Пройти обучение ####
