@@ -32,5 +32,6 @@
 -------------------------
 ### Изображения программы ###
 
-![Основное окно](https://github.com/Sadeal/JavaCourse/blob/main/img/main.png)
-![Окно истории](https://github.com/Sadeal/JavaCourse/blob/main/img/history.png)
+![Основное окно](https://github.com/Sadeal/JavaCourse/blob/main/img/mainwindow.png)
+![Окно добавления](https://github.com/Sadeal/JavaCourse/blob/main/img/addwindow.png)
+![Окно истории](https://github.com/Sadeal/JavaCourse/blob/main/img/historywindow.png)
