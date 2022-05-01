@@ -20,7 +20,7 @@
 
 #### Запуск exe файла: ####
 
-1. Установить Java ([java.com](https://www.java.com/ru/download/))
+1. Установить Java ([java.com](https://www.java.com/ru/download/)) и JRE 8 ([oracle.com](https://www.oracle.com/java/technologies/downloads/#jre8-windows))
 2. Запустить [exe файл (github)](https://github.com/Sadeal/Market-Parser/blob/main/etc/MarketParser.exe)
 
 -------------------------
