@@ -38,6 +38,9 @@ public class MyTableModel extends AbstractTableModel {
 
     @Override
     public Class<?> getColumnClass(int columnIndex) {
+        if (columnIndex == 0) {
+            return Integer.class;
+        }
         return super.getColumnClass(columnIndex);
     }
 
