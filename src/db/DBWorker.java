@@ -114,5 +114,10 @@ public class DBWorker {
             statement.setInt(2, id);
             statement.execute();
         statement.close();
+        PreparedStatement state = connection.prepareStatement("UPDATE history SET Name = ? WHERE obj_id = ?");
+            state.setString(1, _name);
+            state.setInt(2, id);
+            state.execute();
+        state.close();
     }
 }
