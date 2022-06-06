@@ -107,4 +107,12 @@ public class DBWorker {
             statement.execute();
         statement.close();
     }
+    
+    public static void setName(int id, String _name) throws SQLException{
+        PreparedStatement statement = connection.prepareStatement("UPDATE objects SET Name = ? WHERE id = ?");
+            statement.setString(1, _name);
+            statement.setInt(2, id);
+            statement.execute();
+        statement.close();
+    }
 }
