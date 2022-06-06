@@ -46,8 +46,13 @@ public class MyTableModel extends AbstractTableModel {
 
     @Override
     public void setValueAt(Object aValue, int rowIndex, int columnIndex){
-        if(columnIndex == 0) {
+        if(columnIndex == 1) {
             data.getObj(rowIndex).setName((String)aValue);
+            try {
+                DBWorker.setName(data.getObj(rowIndex).getID(),(String)aValue);
+            } catch (SQLException e) {
+                e.printStackTrace();
+            }
         }
     }
 
